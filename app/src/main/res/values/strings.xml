@@ -11,6 +11,11 @@
     <string name="information_screen">Information Screen...</string>
     <string name="information_image">Information Image</string>
     <string name="loading">Loading...</string>
+    <string name="about_it">about it.</string>
+    <string name="i_m_indunil_maheshika_liyanage_i_designed_and_developed_this_mobile_app_for">I\'m Indunil Maheshika Liyanage. I designed and developed this mobile app for\n</string>
+    <string name="the_mobile_programming_with_native_technology_course_at_oulu_university_of">the Mobile Programming with Native Technology course at Oulu University of\n</string>
+    <string name="applied_sciences_i_have_used_free_apis_specifically_https_www_episodate_com_api">Applied Sciences. I have used free APIs, specifically https://www.episodate.com/api/.\n</string>
+    <string name="this_app_is_about_popular_tv_shows_you_can_click_on_a_tv_show_to_get_more_information">This app is about popular TV shows. You can click on a TV show to get more information\n</string>
 
 
 </resources>

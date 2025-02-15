@@ -1,4 +1,4 @@
-package com.example.tvshowapp.ui
+package com.example.tvshowapp.ui.Screens
 
 //required imports
 import androidx.compose.foundation.background

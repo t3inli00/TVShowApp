@@ -28,7 +28,9 @@ import androidx.compose.material3.IconButton
 import androidx.compose.ui.res.stringResource
 import androidx.navigation.compose.currentBackStackEntryAsState
 import com.example.tvshowapp.R
-import com.example.tvshowapp.viewmodel.TVShowDetailUiState
+import com.example.tvshowapp.ui.Screens.InforScreen
+import com.example.tvshowapp.ui.Screens.TVShowDetailsScreen
+import com.example.tvshowapp.ui.Screens.TVShowScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
